@@ -7,3 +7,11 @@
 
 ### CSV's
 The databases about the COVID19 can be downloaded at this site: https://ourworldindata.org/coronavirus-source-data
+
+
+
+![COVID-19 Brazil - 04-02-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/BrazilCasesPerDay.png)
+
+
+
+
