@@ -8,12 +8,12 @@
 The databases about the COVID19 can be downloaded at this site: https://ourworldindata.org/coronavirus-source-data
 
 
-### Charts - 04-02-2020
-![COVID-19 Brazil - 06-02-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/BrazilCasesPerDay.png)
-![New Cases Brazil - 06-02-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/NewCases/Brazil%20-%20COVID19.png)
-![New Deaths Brazil - 06-02-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/NewDeaths/Brazil%20-%20COVID19.png)
-![Total Cases Brazil - 06-02-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/TotalCases/Brazil%20-%20COVID19.png)
-![Total Deaths Brazil - 06-02-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/TotalDeaths/Brazil%20-%20COVID19.png)
+### Charts - 04-06-2020
+![COVID-19 Brazil - 04-06-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/BrazilCasesPerDay.png)
+![New Cases Brazil - 04-06-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/NewCases/Brazil%20-%20COVID19.png)
+![New Deaths Brazil - 04-06-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/NewDeaths/Brazil%20-%20COVID19.png)
+![Total Cases Brazil - 04-06-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/TotalCases/Brazil%20-%20COVID19.png)
+![Total Deaths Brazil - 04-06-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/TotalDeaths/Brazil%20-%20COVID19.png)
 
 
 
