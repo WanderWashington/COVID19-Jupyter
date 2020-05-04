@@ -8,7 +8,7 @@
 The databases about the COVID19 can be downloaded at this site: https://ourworldindata.org/coronavirus-source-data
 
 
-*Last update: 04-25-2020*
+*Last update: 05-04-2020*
 
 ### Charts 
 ![COVID-19 Brazil - 04-25-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/BrazilCasesPerDay.png)
