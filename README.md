@@ -28,8 +28,8 @@ Brazil databases can be downloaded at this site:https://coronavirus.saude.gov.br
     * plotNewDeathsByUF - Create charts with the  new deaths
     * plotAccumulatedCasesByUF - Create charts with the accumulated cases
     * plotAccumulatedDeathsByUF - Create charts with the  accumulated aeaths
-    * plotNewRecoveredByUF -Create charts with the new recovered cases. Obs: the official data about covid 19, dont have informations about newRecovered, but have the column in the datasheet, probably, if use this function, the charts will appear blan.
-    * plotUnderSupervisionCasesByUF - Create charts with the cases under supervision.Obs: the official data about covid 19, dont have informations about newRecovered, but have the column in the datasheet, probably, if use this function, the charts will appear blank.
+    * plotNewRecoveredByUF -Create charts with the new recovered cases. Obs: the official data about covid 19 in Brazil, dont have informations about newRecovered, but have the column in the datasheet, probably, if use this function, the charts will appear blan.
+    * plotUnderSupervisionCasesByUF - Create charts with the cases under supervision.Obs: the official data about covid 19  in Brazil, dont have informations about newRecovered, but have the column in the datasheet, probably, if use this function, the charts will appear blank.
  
  
   
