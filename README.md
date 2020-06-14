@@ -16,7 +16,7 @@ Brazil databases can be downloaded at this site:https://coronavirus.saude.gov.br
 
 2.  In the prompt, run the command:
 
-   ```jupyter-notebook```
+    ```jupyter-notebook```
 
 
 ### Notebooks
