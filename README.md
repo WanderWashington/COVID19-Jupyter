@@ -7,7 +7,7 @@
 
 The databases about the COVID19 can be downloaded at this site: https://ourworldindata.org/coronavirus-source-data
 
-Brazil databases can be downloaded at this site:https://coronavirus.saude.gov.br
+Brazil databases can be downloaded at this site: https://coronavirus.saude.gov.br
 
 
 ## Installation:
