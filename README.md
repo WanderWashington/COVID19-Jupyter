@@ -21,7 +21,7 @@ Brazil databases can be downloaded at this site:https://coronavirus.saude.gov.br
 
 
 ### Notebooks
-1.   In ```COVID19.ipynb``` is possible see data about the countries around the world. At this ipynb, could be used a function to plot by country. Just call ```plotDataByCountry(country)``` given the country name and some charts will be created and saved in a Charts folder.
+1.   In ```COVID19.ipynb``` is possible see data about the cases around the world. At this ipynb, could be used a function to plot by country. Just call ```plotDataByCountry(country)``` given the country name and some charts will be created and saved in a Charts folder.
 
 2.  In ```Covid19 - Brazil.ipynb```is possible see data just about the Brazil. Here, we have a function to create charts foreach state in Brazil. The function creates a folder with the state abbreviation and save inside there, the correspondent Chart. At this momment have six functions that can be used:
     * plotNewCasesByUF  - Create charts with the  new cases
