@@ -7,17 +7,29 @@
 
 The databases about the COVID19 can be downloaded at this site: https://ourworldindata.org/coronavirus-source-data
 
-
-*Last update: 06-07-2020*
-
-### Charts 
-![COVID-19 Brazil - 06-07-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/BrazilCasesPerDay.png)
-![New Cases Brazil - 06-07-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/NewCases/Brazil%20-%20COVID19.png)
-![New Deaths Brazil - 06-07-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/NewDeaths/Brazil%20-%20COVID19.png)
-![Total Cases Brazil - 06-07-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/TotalCases/Brazil%20-%20COVID19.png)
-![Total Deaths Brazil - 06-07-2020](https://github.com/WanderWashington/COVID19-Jupyter/blob/master/Charts/TotalDeaths/Brazil%20-%20COVID19.png)
+Brazil databases can be downloaded at this site: https://coronavirus.saude.gov.br
 
 
+## Installation:
+1.  Install the requirements file, with the command:
+
+    ```pip install -r requirements.txt```
+
+2.  In the prompt, run the command:
+
+    ```jupyter-notebook```
 
 
+### Notebooks
+1.   In ```COVID19.ipynb``` is possible see data about the cases around the world. At this ipynb, could be used a function to plot by country. Just call ```plotDataByCountry(country)``` given the country name and some charts will be created and saved in a Charts folder.
 
+2.  In ```Covid19 - Brazil.ipynb``` is possible see data just about the Brazil. Here, we have a function to create charts foreach state in Brazil. The function creates a folder with the state abbreviation and save inside there, the correspondent Chart. At this momment have six functions that can be used:
+    * plotNewCasesByUF  - Create charts with the  new cases
+    * plotNewDeathsByUF - Create charts with the  new deaths
+    * plotAccumulatedCasesByUF - Create charts with the accumulated cases
+    * plotAccumulatedDeathsByUF - Create charts with the  accumulated aeaths
+    * plotNewRecoveredByUF -Create charts with the new recovered cases. Obs: the official data about covid 19 in Brazil, dont have informations about newRecovered, but have the column in the datasheet, probably, if use this function, the charts will appear blan.
+    * plotUnderSupervisionCasesByUF - Create charts with the cases under supervision.Obs: the official data about covid 19  in Brazil, dont have informations about newRecovered, but have the column in the datasheet, probably, if use this function, the charts will appear blank.
+ 
+ 
+  
