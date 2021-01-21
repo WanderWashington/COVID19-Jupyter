@@ -9,7 +9,7 @@ jupyter-core==4.4.0
 matplotlib==3.0.3
 notebook==6.1.5
 numpy==1.16.2
-pandas==0.24.2
+pandas==1.2.1
 pandocfilters==1.4.2
 py==1.8.0
 requests==2.21.0
