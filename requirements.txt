@@ -1,6 +1,6 @@
 beautifulsoup4==4.7.1
 folium==0.10.0
-ipykernel==5.1.0
+ipykernel==5.4.3
 ipython==7.3.0
 jupyter==1.0.0
 jupyter-client==5.2.4
