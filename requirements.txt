@@ -1,5 +1,5 @@
 beautifulsoup4==4.7.1
-folium==0.10.0
+folium==0.12.1
 ipykernel==5.1.0
 ipython==7.3.0
 jupyter==1.0.0
