@@ -4,7 +4,7 @@ ipykernel==5.4.3
 ipython==7.19.0
 jupyter==1.0.0
 jupyter-client==6.1.11
-jupyter-console==6.2.0
+jupyter-console==6.3.0
 jupyter-core==4.7.0
 matplotlib==3.3.3
 notebook==6.2.0
