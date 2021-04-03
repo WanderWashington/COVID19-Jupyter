@@ -5,7 +5,7 @@ ipython==7.22.0
 jupyter==1.0.0
 jupyter-client==6.1.11
 jupyter-console==6.2.0
-jupyter-core==4.7.0
+jupyter-core==4.7.1
 matplotlib==3.4.1
 notebook==6.2.0
 numpy==1.20.2
