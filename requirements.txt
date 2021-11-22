@@ -3,7 +3,7 @@ folium==0.12.1
 ipykernel==5.5.3
 ipython==7.29.0
 jupyter==1.0.0
-jupyter-client==7.0.2
+jupyter-client==7.1.0
 notebook==6.4.1
 jupyter-console==6.4.0
 jupyter-core==4.7.1
